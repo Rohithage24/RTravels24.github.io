@@ -4,7 +4,7 @@
  	z-index: 12;
 
  	transform: translateY(10px);
-	background-color: blueviolet;
+	background-color: rgb(117, 30, 200);
 	
 }
 hr{
@@ -17,7 +17,7 @@ hr{
 	color: white;
 }
 .Jumbotron{
-	background-color: #786f66;
+	background-color: #201d31;
 }
 h1 .title{
 	justify-content: center;
@@ -36,7 +36,7 @@ center h2 .wr{
 	margin-bottom: 60px;
 }
 footer{
-	background-color: #786f66;
+	background-color: #201d31;
 }
 footer a {
 	text-decoration: none;
