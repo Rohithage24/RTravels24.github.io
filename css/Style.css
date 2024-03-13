@@ -17,7 +17,7 @@ hr{
 	color: white;
 }
 .Jumbotron{
-	background-color: #bab39e;
+	background-color: #786f66;
 }
 h1 .title{
 	justify-content: center;
@@ -39,5 +39,6 @@ footer{
 	background-color: #786f66;
 }
 footer a {
+	text-decoration: none;
 	color: white;
 }
